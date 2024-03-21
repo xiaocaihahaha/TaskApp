@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_task"
+            android:icon="@drawable/ic_task"
+            android:title="@string/menu_task" />
+        <item
+            android:id="@+id/nav_goods"
+            android:icon="@drawable/ic_goods"
+            android:title="@string/menu_goods" />
+        <item
+            android:id="@+id/nav_property"
+            android:icon="@drawable/ic_property"
+            android:title="@string/menu_property" />
+
+        <item
+            android:id="@+id/nav_skill"
+            android:icon="@drawable/ic_property"
+            android:title="@string/menu_skill" />
+        <item
+            android:id="@+id/nav_wish"
+            android:icon="@drawable/ic_property"
+            android:title="@string/menu_wish" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/ic_property"
+            android:title="@string/menu_contact" />
+    </group>
+</menu>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">任务列表</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">蔡武豪</string>
+    <string name="nav_signature">快点来完善这个app吧</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">设置</string>
+
+    <string name="menu_goods">物品</string>
+    <string name="menu_property">属性</string>
+    <string name="menu_task">任务</string>
+    <string name="menu_skill">技能</string>
+    <string name="menu_wish">愿望</string>
+    <string name="menu_contact">人脉</string>
+</resources>
